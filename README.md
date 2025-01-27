@@ -37,7 +37,7 @@ Before starting, ensure you have the following installed and configured:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Sureshbeniwa06/Docker-images-on-localhost-running-how-.git
+git clone https://github.com/Sureshbeniwa06/docker-ci-cd-pipeline.git
 ```
 
 ### Step 2: Configure Jenkins
