@@ -4,6 +4,8 @@
 
 ## Here's the workflow diagram for your CI/CD pipeline project. Let me know if you need any modifications or further enhancements!
 
+![workflow diagram](https://github.com/user-attachments/assets/509d679a-6055-4052-9f1b-e4848efea5b9)
+
 
 
 # CI/CD Pipeline for Docker Image Deployment
