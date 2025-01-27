@@ -2,6 +2,10 @@
 
 # A CI/CD pipeline project for automating Docker image builds and deployments using Jenkins and GitHub.
 
+## Here's the workflow diagram for your CI/CD pipeline project. Let me know if you need any modifications or further enhancements!
+
+
+
 # CI/CD Pipeline for Docker Image Deployment
 
 This project demonstrates a CI/CD pipeline that automates the process of pulling code from a GitHub repository, building a Docker image, and pushing it to Docker Hub. The pipeline is implemented using Jenkins.
