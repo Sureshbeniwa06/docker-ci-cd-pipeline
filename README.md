@@ -90,7 +90,7 @@ Set up a webhook in your GitHub repository to trigger the pipeline automatically
 2. Navigate to **Webhooks** and click **Add webhook**.
 3. Enter the Jenkins webhook URL:
    ```
-   http://<localhost>:8080/github-webhook/
+   http://10.0.2.15:8080//github-webhook/
    ```
 4. Select the **Just the push event** option and save.
 
